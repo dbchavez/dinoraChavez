@@ -3,7 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Versatil</title>
+        
+    <h1>Versatil</h1>
+            <h2>About_Us</h2>
+            <h6>Quienes somos?</h6>
+
+            <P>Somos una <strong>empresa</strong> con venta de productos <em>para el cuidado del cabello, Estamos ubicados en Colonia La Sultana, Antiguo Cuscatlan #5</em></P>
+            <p>Contactanos al telefono <em>7471-2014 o a nuestro correo versatil@gmail.com</em></p>
+
+
 </head>
 <body>
     
